@@ -1,0 +1,9 @@
+Release note (31.05.2022) 
+----------------------
+1) Reading and Writing to the json file is supported.
+2) Reading of XR75 parameters is working through SEM module.
+3) Issues realated to Writing to XR75 through SEM module is fixed.
+4) Parameter of XR75 is updating to json file every 10 seconds
+
+Known issues:
+5) There are issues observed when XR75 parameters are changed manually by user externally. These external "writes" causes expceptions on modbus communication. Few exceptions are handled and remaining exceptions will be handled in next delivery.
