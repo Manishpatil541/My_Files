@@ -1,0 +1,89 @@
+BUYER
+
+common
+	- header - searchbar - cart
+	- drawer 
+		* welcome $name
+		* notification
+		- about
+		- settings - profile
+		* dark mode button
+		- favourites
+		- offers
+		- orders
+		* logout button
+
+Auth
+	Login page
+		* email id
+		* password
+		* login button
+
+	Register page
+		* name
+		* email
+		* mobile number
+		* DOB
+		* password
+		* confirm password
+		* register
+
+	Reset password page
+		* email
+		* reset
+
+	Change password page
+		* old password
+		* new password
+		* change password
+
+
+home page 
+	- carousal - offer
+	- filter - catergory-tags
+	- recommended
+		- product card
+			- price, discount, name, image, sold by
+
+Product detail
+	- image carousel
+	- name (special type)
+	- sold by
+	- offer price, discount
+	- add favorites
+	- share
+	- add to cart - quantity - buy now
+	- details - extra info
+	- ratings - commmand
+
+Cart page
+	- orders - quantity
+	- total price
+	- proceed to buy
+
+About page
+	* about the company
+	* contact
+	* copyrights
+
+Settings page
+	* profile
+	* address - multiple
+
+Notification page	
+	* list notification
+
+Favourites page
+	* list of favourite items
+
+Offers page
+	* list of offers
+
+Orders page
+	* list of orders
+
+Order detail page
+	* details of order
+	* timeline
+	* expected delivery
+	* cancel order

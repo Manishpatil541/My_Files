@@ -1,0 +1,126 @@
+{
+  "model": "organic.product",
+  "pk": 1,
+  "fields": {
+    "name": "Mango",
+    "descreption": "Mangoes are Sweet",
+    "category": "Fruits",
+    "price": 400,
+    "image": "mango img",
+    "stock": 50,
+    "available": "Yes",
+    "rating": 4
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 2,
+  "fields": {
+    "name": "Banan",
+    "descreption": "good for health",
+    "category": "Fruits",
+    "price": 50,
+    "image": "banana img",
+    "stock": 100,
+    "available": "Yes",
+    "rating": 5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 3,
+  "fields": {
+    "name": "watermelon",
+    "descreption": "watermelon rich with water",
+    "category": "Fruits",
+    "price": 82,
+    "image": "watermelon img",
+    "stock": 0,
+    "available": "No",
+    "rating": 5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 4,
+  "fields": {
+    "name": "Capsicum",
+    "descreption": "Green in color",
+    "category": "Vegetables",
+    "price": 100,
+    "image": "capsicum img",
+    "stock": 200,
+    "available": "Yes",
+    "rating": 3.5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 5,
+  "fields": {
+    "name": "Brinzol",
+    "descreption": "Good Quality",
+    "category": "Vegetables",
+    "price": 60,
+    "image": "brinzol img",
+    "stock": 0,
+    "available": "No",
+    "rating": 3.5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 6,
+  "fields": {
+    "name": "cookumber",
+    "descreption": "good for health",
+    "category": "Vegetables",
+    "price": 40,
+    "image": "cookumber img",
+    "stock": 200,
+    "available": "Yes",
+    "rating": 3.5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 7,
+  "fields": {
+    "name": "Chana",
+    "descreption": "xyz",
+    "category": "cereal",
+    "price": 100,
+    "image": "chana img",
+    "stock": 200,
+    "available": "Yes",
+    "rating": 4.5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 8,
+  "fields": {
+    "name": "Toor Daal",
+    "descreption": "accdsfcvs",
+    "category": "cereal",
+    "price": 95,
+    "image": "Toor Daal img",
+    "stock": 200,
+    "available": "Yes",
+    "rating": 5
+  }
+},
+{
+  "model": "organic.product",
+  "pk": 9,
+  "fields": {
+    "name": "Moong Daal",
+    "descreption": "hvbfckxvb ",
+    "category": "cereals",
+    "price": 75,
+    "image": "moong Daal img",
+    "stock": 500,
+    "available": "No",
+    "rating": 3.5
+  }
+},
